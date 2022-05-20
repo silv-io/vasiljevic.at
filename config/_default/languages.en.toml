@@ -6,7 +6,7 @@ weight = 1
 rtl = false
 
 title = "silv-io"
-logo = "img/me.jpg"
+# logo = "img/me.jpg"
 # description = "My awesome website"
 # copyright = "Copy, _right?_ :thinking_face:"
 
@@ -14,9 +14,9 @@ dateFormat = "2 January 2006"
 
 [author]
   name = "Silvio Vasiljevic"
-  # image = "img/author.jpg"
-  headline = "I'm only human"
-  # bio = "A little bit about you"
+  image = "img/me.jpg"
+  headline = "Software Engineer at LocalStack | Computer Science Student at TU Wien"
+  # bio = "test"
   links = [
     { email = "mailto:s@vasiljevic.at" },
   #   { link = "https://link-to-some-website.com/" },
